@@ -10,7 +10,7 @@ Debug as a normal 5.0 .Net Project
 
 # Gui ♟
   <p align=center>
-      <image src="https://cdn.discordapp.com/attachments/852696157737713664/854149019579187220/unknown.png"> 
+      <image src="https://cdn.discordapp.com/attachments/876946500624724009/877220340969898044/unknown.png"> 
   <p/>
 
   
